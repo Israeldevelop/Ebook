@@ -1,0 +1,23 @@
+Titulo
+
+Crie um título de um ebook sobre o tema de Musica eletronica, o ebook é do nicho de produção musical e o subnicho é de ferramentas de produção, o título deve ser épico e curto, e que tenha uma temática de Gigs ou girias da musica eletronica no título, me liste 5 variações de títulos
+
+Eu queria um nome que remetesse mais ao cenario underground
+
+Conteudo
+
+Faça um texto para ebook , com foco em produção musical, listando as principais ferramentas de produção com exemplos plugins e etc
+
+{regras}
+
+> Fale sobre a ferramenta ableton live 11
+> Explique sempre de uma maneira simples 
+> deixe o texto enxuto 
+> sempre traga exemplos em contextos reais
+> sempre deixe um título sugestivo por tópico
+
+Imagem
+
+A Dj in meditation pose, with your headphone and control, with a flash drive neck necklace, pixel art style --v 5.1
+
+Excellent, use this same image but take off the hat and put on brown hair with a mullet cut and a Johnny Depp style goatee, add bracelets on your arms too.
